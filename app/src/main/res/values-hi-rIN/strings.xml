@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Core 1</string>
+    <string name="score">Ankk</string>
+    <string name="steal">Chorri</string>
+    <string name="reset">Shubh-Arambh</string>
+    <string name="counter">0</string>
+    <string name="core1">Core 1 (HINDI)</string>
+</resources>
